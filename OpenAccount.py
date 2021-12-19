@@ -16,3 +16,5 @@ else:
         print("Opening Current Account")
     else:
         print("Invalid Account Type!")
+
+SomeError
